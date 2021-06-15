@@ -1,0 +1,5 @@
+(1) Installed pip
+(2) Install Scrapy via pip
+(3) Created file called spider.py
+(4) Imported Scrapy into file
+(5) Created a WebSpider class

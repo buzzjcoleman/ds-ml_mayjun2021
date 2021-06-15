@@ -1,0 +1,26 @@
+class CoffeeMachine:
+
+    # Properties
+    brand = "Nespresso"
+    temperature = 40
+    size = "medium"
+    voltage = "50w"
+
+
+    # Methods
+    def boilWater():
+        #
+        #
+        #
+    def grindCofeeBeans():
+        #
+        #
+        #
+    def addSugar():
+        #
+        #
+        #
+    def pourCoffee():
+        #
+        #
+        #
